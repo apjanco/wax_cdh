@@ -21,7 +21,7 @@
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://apjanco.github.io'
-baseurl:          '/wax'
+baseurl:          '/wax_cdh'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
